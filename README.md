@@ -1,7 +1,7 @@
 <h1 align="center">Hello 
              I'm Sumit Audumbar Mali</h1>
             <h3 align="center">Learning MERN Stack | Aspiring Full Stack Web Developer</h3>
-           <div align="center"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" height="400px" width="40%" data-canonical-src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" data-target="animated-image.originalImage" align="center"> </div>
+           
 
             
 ## Location

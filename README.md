@@ -1,4 +1,81 @@
-<h1 align="center">Hello 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=white&center=true&vCenter=true&width=435&lines=Hi+I'm+Sumit+Audumbar+Mali;MERN+Stack+Developer;Full+Stack+Web+Developer;" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Turning Coffee into Code ☕ | Building Digital Experiences 🚀</h3>
+
+<div align="center">
+  
+📍 **Pune, India**  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sumitmali180.github.io/Portfolio-/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-mali-19092001/)
+
+  
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  
+[![Sumit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sumitmali180&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/sumitmali180)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitmali180&layout=compact&theme=react&hide_border=true)](https://github.com/sumitmali180)
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumitmali180&theme=onedark&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/sumitmali180)
+
+---
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitmali180&theme=react&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+---
+
+
+
+
+<div align="center">
+  
+![visitors](https://komarev.com/ghpvc/?username=sumitmali180&color=00C7B7&style=flat-square&label=PROFILE+VIEWS)
+
+**⚡ Fun Fact:** *"The first computer virus was created in 1983!"* 🦠
+
+</div>
+
+### 📌 Pinned Repositories
+
+<!-- <h1 align="center">Hello 
              I'm Sumit Audumbar Mali</h1>
             <h3 align="center">Learning MERN Stack | Aspiring Full Stack Web Developer</h3>
            

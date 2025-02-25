@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=white&center=true&vCenter=true&width=435&lines=Hi+I'm+Sumit+Audumbar+Mali;MERN+Stack+Developer;Full+Stack+Web+Developer;" alt="Typing SVG" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Sumit%20Audumbar%20Mali&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62)
 
 <h3 align="center">Turning Coffee into Code ☕ | Building Digital Experiences 🚀</h3>
 

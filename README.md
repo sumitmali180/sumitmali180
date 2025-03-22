@@ -12,7 +12,13 @@
 </div>
 
 ---
+### 🚀 About Me
 
+- 🔭 I'm currently working on enhancing my Full-Stack development skills
+- 🌱 Learning and growing in the MERN stack ecosystem
+- 💬 Ask me about **Web Development** - I'm always happy to help!
+- ⚡ Fun fact: I'm a Formula 1 enthusiast 🏎️ who codes between races
+- 📫 Reach me at: **sumitmali180@gmail.com**
 ### 🛠️ Tech Stack
 
 #### Frontend Development
